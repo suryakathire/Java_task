@@ -1,0 +1,3 @@
+inheritance.Inheritance
+inheritance.Inherit
+inheritance.inheritance
